@@ -1,0 +1,1594 @@
+{
+  "items": [
+    {
+      "id": "7394ea0a-c7b7-4a1a-86bf-2585772dbba0",
+      "name": "Equipamento de cozinha",
+      "slug": "equipamento-de-cozinha",
+      "status": "ACTIVE",
+      "image": "https://prod-metro-markets.imgix.net/category_image/7394ea0a-c7b7-4a1a-86bf-2585772dbba0.jpg",
+      "translations": {
+        "name": {
+          "de": "Küchenausstattung",
+          "en": "Kitchen equipment",
+          "es": "Equipamiento de cocina",
+          "fr": "Équipement de cuisine",
+          "it": "Attrezzatura per cucine",
+          "nl": "Keukenuitrusting",
+          "pt": "Equipamento de cozinha"
+        },
+        "slug": {
+          "de": "grosskuchenausstattung",
+          "en": "catering-equipment",
+          "es": "equipamiento-de-cocina-industrial",
+          "fr": "materiel-chr",
+          "it": "attrezzatura-per-cucine",
+          "nl": "keukenuitrusting",
+          "pt": "equipamento-de-cozinha"
+        }
+      },
+      "energyEfficiencyRange": null,
+      "children": [
+        {
+          "id": "e45413de-3229-40b6-be52-2f77f97bcdc2",
+          "name": "Frio e refrigeração",
+          "slug": "frio-e-refrigeracao",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/e45413de-3229-40b6-be52-2f77f97bcdc2.jpg",
+          "translations": {
+            "name": {
+              "de": "Kühltechnik",
+              "en": "Cooling",
+              "es": "Refrigeración",
+              "fr": "Matériel de froid ",
+              "it": "Impianti refrigerazione",
+              "nl": "Koeltechniek",
+              "pt": "Frio e refrigeração"
+            },
+            "slug": {
+              "de": "kuhltechnik",
+              "en": "cooling-1",
+              "es": "refrigeracion",
+              "fr": "materiel-de-froid",
+              "it": "impianti-refrigerazione",
+              "nl": "koeltechniek",
+              "pt": "frio-e-refrigeracao"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:20:22.000000Z"
+        },
+        {
+          "id": "a5b43858-1f40-421d-a981-1b0b9c8a4c1d",
+          "name": "Aparelhos de cozinha",
+          "slug": "utensilios-de-cozinha-2",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/a5b43858-1f40-421d-a981-1b0b9c8a4c1d.jpg",
+          "translations": {
+            "name": {
+              "de": "Küchengeräte",
+              "en": "Kitchen appliances",
+              "es": "Electrodomésticos de cocina",
+              "fr": "Petit matériel de cuisine",
+              "it": "Elettrodomestici da cucina",
+              "nl": "Keukenapparaten",
+              "pt": "Aparelhos de cozinha"
+            },
+            "slug": {
+              "de": "kuchengerate",
+              "en": "kitchen-appliances",
+              "es": "electrodomesticos-de-cocina",
+              "fr": "appareil-de-cuisson",
+              "it": "utensili-da-cucina",
+              "nl": "keukenapparaten",
+              "pt": "utensilios-de-cozinha-2"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-02-01T15:05:01.000000Z"
+        },
+        {
+          "id": "c552b97a-3b48-4167-b347-1526dafb559d",
+          "name": "Preparação de bebidas",
+          "slug": "preparacao-de-bebidas",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/c552b97a-3b48-4167-b347-1526dafb559d.jpg",
+          "translations": {
+            "name": {
+              "de": "Getränke- & Kaffeemaschinen",
+              "en": "Drink & coffee makers",
+              "es": "Preparación de bebidas",
+              "fr": "Matériel de boissons chaudes et froides",
+              "it": "Preparazione di bevande",
+              "nl": "Drankenbereiding",
+              "pt": "Preparação de bebidas"
+            },
+            "slug": {
+              "de": "getrankezubereitung",
+              "en": "drink-preparation",
+              "es": "preparacion-de-bebidas",
+              "fr": "preparation-de-boissons",
+              "it": "preparazione-bevande",
+              "nl": "drankenbereiding",
+              "pt": "preparacao-de-bebidas"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-15T12:19:39.000000Z"
+        },
+        {
+          "id": "df4414f6-100d-47eb-bc3b-0271c7d7e119",
+          "name": "Aparelhos para cozinhar",
+          "slug": "aparelhos-para-cozinhar",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/df4414f6-100d-47eb-bc3b-0271c7d7e119.jpg",
+          "translations": {
+            "name": {
+              "de": "Herde & Öfen",
+              "en": "Cooking Appliances",
+              "es": "Aparatos para cocinar",
+              "fr": "Matériel de cuisson",
+              "it": "Strumenti di cottura",
+              "nl": "Kook- & gaartoestellen",
+              "pt": "Aparelhos para cozinhar"
+            },
+            "slug": {
+              "de": "kochen-garen-professionell",
+              "en": "cooking-professional",
+              "es": "maquinaria-de-coccion-profesional",
+              "fr": "materiel-de-cuisson",
+              "it": "strumenti-di-cottura",
+              "nl": "kook-gaartoestellen",
+              "pt": "aparelhos-para-cozinhar"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:20:19.000000Z"
+        },
+        {
+          "id": "353f404b-efdb-4ec3-8bd4-a8d4f71d140e",
+          "name": "Lavagem de louça",
+          "slug": "equipamento-tecnico-de-lavagem",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/353f404b-efdb-4ec3-8bd4-a8d4f71d140e.jpg",
+          "translations": {
+            "name": {
+              "de": "Spültechnik",
+              "en": " Dishwashing",
+              "es": "Lavado de vajilla",
+              "fr": "Lavage professionnel ",
+              "it": "Lavaggio",
+              "nl": "Vaatwastechniek",
+              "pt": "Lavagem de louça"
+            },
+            "slug": {
+              "de": "spulen",
+              "en": "dish-glass-washing",
+              "es": "fregaderos",
+              "fr": "lavage-professionnel",
+              "it": "lavaggio",
+              "nl": "vaatwastechniek",
+              "pt": "equipamento-tecnico-de-lavagem"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-01-16T13:29:29.000000Z"
+        },
+        {
+          "id": "c1653d48-35d9-471d-8076-6a2808d2fd8b",
+          "name": "Panelas e frigideiras",
+          "slug": "tachos-e-panelas-1",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/c1653d48-35d9-471d-8076-6a2808d2fd8b.jpg",
+          "translations": {
+            "name": {
+              "de": "Kochgeschirr",
+              "en": "Cookware",
+              "es": "Batería de cocina",
+              "fr": "Ustensiles de cuisson",
+              "it": "Pentolame",
+              "nl": "Kookgerei",
+              "pt": "Panelas e frigideiras"
+            },
+            "slug": {
+              "de": "kochgeschirr-1",
+              "en": "cookware-1",
+              "es": "bateria-de-cocina",
+              "fr": "batteries-de-cuisine",
+              "it": "pentolame",
+              "nl": "kookgerei",
+              "pt": "tachos-e-panelas-1"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-15T12:19:58.000000Z"
+        },
+        {
+          "id": "278f3806-1ca3-46a1-851a-17d0d21ce09b",
+          "name": "Acessórios de cozinha",
+          "slug": "acessorios-de-cozinha",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/278f3806-1ca3-46a1-851a-17d0d21ce09b.jpg",
+          "translations": {
+            "name": {
+              "de": "Gastro Küchenausstattung",
+              "en": "Professional Kitchen Accessories",
+              "es": "Accesorios de cocina",
+              "fr": "Transport, stockage et autres ustensiles CHR",
+              "it": "Attrezzature per cucine professionali",
+              "nl": "Keukentoebehoren",
+              "pt": "Acessórios de cozinha"
+            },
+            "slug": {
+              "de": "gastronomie-zubehor",
+              "en": "catering-accessories",
+              "es": "accesorios-de-hosteleria",
+              "fr": "art-de-la-table-et-ustensiles-de-cuisine",
+              "it": "accessori-da-cucina",
+              "nl": "keukentoebehoren",
+              "pt": "acessorios-de-cozinha"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-02-15T12:43:47.000000Z"
+        },
+        {
+          "id": "0c6750c5-777c-4e8c-bd8d-c6f51c67131f",
+          "name": "Utensílios de cozinha",
+          "slug": "utensilios-de-cozinha",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/0c6750c5-777c-4e8c-bd8d-c6f51c67131f.jpg",
+          "translations": {
+            "name": {
+              "de": "Küchenutensilien",
+              "en": "Kitchen utensils",
+              "es": "Utensilios para cocinar",
+              "fr": "Ustensiles de préparation",
+              "it": "Utensili da cucina",
+              "nl": "Keukengerei",
+              "pt": "Utensílios de cozinha"
+            },
+            "slug": {
+              "de": "kuchenutensilien-professionell",
+              "en": "kitchen-utensils-professional",
+              "es": "utensilios-de-cocina-profesional",
+              "fr": "ustensiles-de-cuisine",
+              "it": "utensili-da-cucina-1",
+              "nl": "keukengerei",
+              "pt": "utensilios-de-cozinha"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-02-01T15:07:25.000000Z"
+        },
+        {
+          "id": "7904f61c-ab1a-4ca4-971d-3af5a501c150",
+          "name": "Mobiliário de cozinha",
+          "slug": "mobiliario-de-cozinha",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/7904f61c-ab1a-4ca4-971d-3af5a501c150.jpg",
+          "translations": {
+            "name": {
+              "de": "Küchenmöbel",
+              "en": "Kitchen furniture",
+              "es": "Muebles de cocina industrial",
+              "fr": "Matériel Inox",
+              "it": "Mobili da cucina",
+              "nl": "Keukenmeubilair",
+              "pt": "Mobiliário de cozinha"
+            },
+            "slug": {
+              "de": "edelstahlmobel",
+              "en": "stainless-steel-furniture",
+              "es": "muebles-de-acero-inoxidable",
+              "fr": "materiel-inox",
+              "it": "mobili-da-cucina",
+              "nl": "keukenmeubilair",
+              "pt": "mobiliario-de-cozinha"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-09-06T10:26:12.000000Z"
+        },
+        {
+          "id": "25bd0ded-45c6-4018-9c05-66d5e35dd0d5",
+          "name": "Fardas de cozinha",
+          "slug": "uniforme-de-cozinhafardas-e-uniformes-para-restauracao",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/25bd0ded-45c6-4018-9c05-66d5e35dd0d5.jpg",
+          "translations": {
+            "name": {
+              "de": "Kochbekleidung",
+              "en": "Chef whites",
+              "es": "Ropa de cocina",
+              "fr": "Vêtements de cuisine",
+              "it": "Abbigliamento da cucina",
+              "nl": "Kokskleding",
+              "pt": "Fardas de cozinha"
+            },
+            "slug": {
+              "de": "kochbekleidung",
+              "en": "chef-whites",
+              "es": "ropa-de-cocina",
+              "fr": "vetements-de-chefs",
+              "it": "abbigliamento-da-cucina",
+              "nl": "kookkleding",
+              "pt": "uniforme-de-cozinhafardas-e-uniformes-para-restauracao"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-05-31T11:09:28.000000Z"
+        }
+      ],
+      "parents": [],
+      "parentId": null,
+      "itemTypeIds": [],
+      "updatedAt": "2023-09-04T06:41:58.000000Z"
+    },
+    {
+      "id": "f2ffd745-325f-49b0-be1c-605873728ab1",
+      "name": "Hotel e Quarto",
+      "slug": "hotel-e-quarto",
+      "status": "ACTIVE",
+      "image": "https://prod-metro-markets.imgix.net/category_image/f2ffd745-325f-49b0-be1c-605873728ab1.jpg",
+      "translations": {
+        "name": {
+          "de": "Hotel & Gastraum",
+          "en": "Hotel & Guestroom",
+          "es": "Hotel y habitación",
+          "fr": "Salles, service et agencement",
+          "it": "Hotel e area ospiti",
+          "nl": "Hotel & horeca",
+          "pt": "Hotel e Quarto"
+        },
+        "slug": {
+          "de": "hotel-gastraum",
+          "en": "hotel-front-of-house",
+          "es": "hoteles-y-restaurantes",
+          "fr": "hotellerie-service-et-restauration",
+          "it": "hotel-e-area-ospiti",
+          "nl": "hotel-horeca",
+          "pt": "hotel-e-quarto"
+        }
+      },
+      "energyEfficiencyRange": null,
+      "children": [
+        {
+          "id": "9721e9e7-78a6-47b6-9168-85538866fd52",
+          "name": "Artigos para serviço de mesa",
+          "slug": "artigos-para-servico-de-mesa",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/9721e9e7-78a6-47b6-9168-85538866fd52.jpg",
+          "translations": {
+            "name": {
+              "de": "Gedeckter Tisch",
+              "en": "Tableware",
+              "es": "Menaje de mesa",
+              "fr": "Art de la table",
+              "it": "Allestimento della tavola",
+              "nl": "Tafelen",
+              "pt": "Artigos para serviço de mesa"
+            },
+            "slug": {
+              "de": "gedeckter-tisch-professionell",
+              "en": "tableware-professional",
+              "es": "menaje-de-mesa-profesional",
+              "fr": "art-de-la-table",
+              "it": "allestimento-della-tavola-1",
+              "nl": "tafel-dekken",
+              "pt": "artigos-para-servico-de-mesa"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:12:17.000000Z"
+        },
+        {
+          "id": "2bea1982-c0a7-4752-a310-4b75ef374dd6",
+          "name": "Buffet e Bar",
+          "slug": "buffet-e-bar",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/2bea1982-c0a7-4752-a310-4b75ef374dd6.jpg",
+          "translations": {
+            "name": {
+              "de": "Buffet & Bar",
+              "en": "Buffet & Bar",
+              "es": "Bufet y bar",
+              "fr": "Buffet et bar",
+              "it": "Buffet e bar",
+              "nl": "Buffet & Bar",
+              "pt": "Buffet e Bar"
+            },
+            "slug": {
+              "de": "buffet-bar",
+              "en": "buffet-bar",
+              "es": "buffet-y-bar",
+              "fr": "buffet-et-bar",
+              "it": "buffet-e-bar",
+              "nl": "buffet-bar",
+              "pt": "buffet-e-bar"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-02-15T12:43:45.000000Z"
+        },
+        {
+          "id": "f4942d6a-ee40-4591-8896-7dc0419a52cb",
+          "name": "Decoração de quarto de hotel",
+          "slug": "acessorios-de-quarto-de-hotel",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/f4942d6a-ee40-4591-8896-7dc0419a52cb.jpg",
+          "translations": {
+            "name": {
+              "de": "Hotel- & Restaurantausstattung",
+              "en": "Hotel & Guest room accessories",
+              "es": "Accesorios de la habitación",
+              "fr": "Chambres d’hôtel Équipements",
+              "it": "Accessori area ospiti",
+              "nl": "Horeca toebehoren",
+              "pt": "Decoração de quarto de hotel"
+            },
+            "slug": {
+              "de": "gastraumzubehoer",
+              "en": "guestroom-accessories",
+              "es": "accesorios-de-la-habitacion",
+              "fr": "chambres-dhotel-equipements",
+              "it": "accessori-area-ospiti",
+              "nl": "horecatoebehoren",
+              "pt": "acessorios-de-quarto-de-hotel"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-15T12:19:52.000000Z"
+        },
+        {
+          "id": "3e18e2b2-a052-47e1-b35f-bad84ddfbbfe",
+          "name": "Para levar",
+          "slug": "para-levar",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/3e18e2b2-a052-47e1-b35f-bad84ddfbbfe.jpg",
+          "translations": {
+            "name": {
+              "de": "To go",
+              "en": "Take away",
+              "es": "Para llevar",
+              "fr": "Vente à emporter",
+              "it": "Asporto",
+              "nl": "Take-away",
+              "pt": "Para levar"
+            },
+            "slug": {
+              "de": "2-go",
+              "en": "take-away",
+              "es": "para-llevar",
+              "fr": "vente-a-emporter",
+              "it": "asporto",
+              "nl": "take-away",
+              "pt": "para-levar"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:24:45.000000Z"
+        },
+        {
+          "id": "5e66271a-89b0-48c6-8472-4d30a4dfe1f6",
+          "name": "Esplanadas exteriores",
+          "slug": "equipamento-de-terraco",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/5e66271a-89b0-48c6-8472-4d30a4dfe1f6.jpg",
+          "translations": {
+            "name": {
+              "de": "Terrassenausstattung",
+              "en": "Terrace Equipment",
+              "es": "Equipamiento de terrazas",
+              "fr": "Mobilier terrasse",
+              "it": "Attrezzatura per terrazze",
+              "nl": "Terrasuitrusting",
+              "pt": "Esplanadas exteriores"
+            },
+            "slug": {
+              "de": "terrassenausstattung",
+              "en": "terrace-equipment",
+              "es": "equipamiento-de-terrazas",
+              "fr": "mobilier-terrasse",
+              "it": "attrezzatura-per-terrazze",
+              "nl": "terrasinrichting",
+              "pt": "equipamento-de-terraco"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-05-13T08:48:17.000000Z"
+        },
+        {
+          "id": "7c7a6346-ff80-4f76-aa39-76a54542832b",
+          "name": "Mobiliário hotelaria",
+          "slug": "mobiliario-de-interior",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/7c7a6346-ff80-4f76-aa39-76a54542832b.jpg",
+          "translations": {
+            "name": {
+              "de": "Indoormöbel",
+              "en": "Indoor Furniture",
+              "es": "Mobiliario",
+              "fr": "Mobiliers d’intérieur",
+              "it": "Mobili da interno",
+              "nl": "Binnenmeubilair",
+              "pt": "Mobiliário hotelaria"
+            },
+            "slug": {
+              "de": "mobiliar",
+              "en": "furniture",
+              "es": "mobiliario",
+              "fr": "mobiliers-dinterieur",
+              "it": "mobili-da-interno",
+              "nl": "binnenmeubilair",
+              "pt": "mobiliario-de-interior"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-15T12:20:01.000000Z"
+        },
+        {
+          "id": "c03d0bdf-55b6-40fe-810f-a2d11115a7e0",
+          "name": "Eletrónica de consumo",
+          "slug": "eletronica-de-consumo",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/c03d0bdf-55b6-40fe-810f-a2d11115a7e0.jpg",
+          "translations": {
+            "name": {
+              "de": "Unterhaltungselektronik",
+              "en": "Consumer electronics",
+              "es": "Electrónica de consumo",
+              "fr": "Multimédia",
+              "it": "Elettronica di consumo",
+              "nl": "Consumentenelektronica",
+              "pt": "Eletrónica de consumo"
+            },
+            "slug": {
+              "de": "unterhaltungselektronik",
+              "en": "consumer-electronics",
+              "es": "electronica-de-consumo",
+              "fr": "electronique-grand-public",
+              "it": "elettronica-di-consumo",
+              "nl": "consumentenelektronica",
+              "pt": "eletronica-de-consumo"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-08-22T11:42:33.000000Z"
+        },
+        {
+          "id": "baaaf5ab-3228-4e7d-b255-8c12d180ada2",
+          "name": "Climatização",
+          "slug": "ambiente-interior",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/baaaf5ab-3228-4e7d-b255-8c12d180ada2.jpg",
+          "translations": {
+            "name": {
+              "de": "Raumklima",
+              "en": "Room climate",
+              "es": "Climatización",
+              "fr": "Chauffage et climatisation",
+              "it": "Climatizzazione",
+              "nl": "Binnenklimaat",
+              "pt": "Climatização"
+            },
+            "slug": {
+              "de": "raumklima",
+              "en": "room-climate",
+              "es": "climatizacion",
+              "fr": "climat-des-pieces",
+              "it": "climatizzazione",
+              "nl": "binnenklimaat",
+              "pt": "ambiente-interior"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-01T14:21:10.000000Z"
+        },
+        {
+          "id": "5340c653-7076-4ab0-9103-32ed8cb08e9c",
+          "name": "Vestuário de hotelaria e restauração e Acessórios",
+          "slug": "vestuario-de-hotelaria-e-restauracao-e-acessorios",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/5340c653-7076-4ab0-9103-32ed8cb08e9c.jpg",
+          "translations": {
+            "name": {
+              "de": "Servicebekleidung & Zubehör",
+              "en": "Service clothing & accessories",
+              "es": "Ropa de servicio & accesorios",
+              "fr": "Vêtements et accessoires de service",
+              "it": "Abbigliamento e accessori da sala",
+              "nl": "Horeca bedrijfskleding & toebehoren",
+              "pt": "Vestuário de hotelaria e restauração e Acessórios"
+            },
+            "slug": {
+              "de": "service-bekleidung",
+              "en": "service-clothing",
+              "es": "ropa-de-servicio",
+              "fr": "vetements-et-accessoires-de-service",
+              "it": "abbigliamento-e-accessori-da-sala",
+              "nl": "bedrijfskleding-toebehoren-horeca",
+              "pt": "vestuario-de-hotelaria-e-restauracao-e-acessorios"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:24:53.000000Z"
+        },
+        {
+          "id": "ad435075-f315-4fc4-85c5-36303f8fd9b4",
+          "name": "Iluminação",
+          "slug": "iluminacao-1",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/ad435075-f315-4fc4-85c5-36303f8fd9b4.jpg",
+          "translations": {
+            "name": {
+              "de": "Beleuchtung",
+              "en": "Lighting",
+              "es": "Iluminación",
+              "fr": "Éclairage",
+              "it": "Illuminazione",
+              "nl": "Verlichting",
+              "pt": "Iluminação"
+            },
+            "slug": {
+              "de": "beleuchtung",
+              "en": "lighting-2",
+              "es": "iluminacion",
+              "fr": "eclairage",
+              "it": "illuminazione-1",
+              "nl": "verlichting-2",
+              "pt": "iluminacao-1"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:16:36.000000Z"
+        }
+      ],
+      "parents": [],
+      "parentId": null,
+      "itemTypeIds": [],
+      "updatedAt": "2023-08-21T15:24:38.000000Z"
+    },
+    {
+      "id": "e6d51ecd-e58f-4a54-8243-b1397c14600f",
+      "name": "Escritório e administração",
+      "slug": "escritorio-e-administracao",
+      "status": "ACTIVE",
+      "image": "https://prod-metro-markets.imgix.net/category_image/e6d51ecd-e58f-4a54-8243-b1397c14600f.jpg",
+      "translations": {
+        "name": {
+          "de": "Büro & Administration",
+          "en": "Office & Administration",
+          "es": "Oficina y administración",
+          "fr": "Bureau et administration",
+          "it": "Ufficio",
+          "nl": "Kantoor & administratie",
+          "pt": "Escritório e administração"
+        },
+        "slug": {
+          "de": "buro",
+          "en": "office",
+          "es": "oficina",
+          "fr": "bureau",
+          "it": "ufficio",
+          "nl": "kantoor-administratie",
+          "pt": "escritorio-e-administracao"
+        }
+      },
+      "energyEfficiencyRange": null,
+      "children": [
+        {
+          "id": "46ba3533-d876-47ef-928b-96370c388daf",
+          "name": "Artigos de escritório",
+          "slug": "artigos-de-escritorio",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/46ba3533-d876-47ef-928b-96370c388daf.jpg",
+          "translations": {
+            "name": {
+              "de": "Bürobedarf",
+              "en": "Office supplies",
+              "es": "Material de oficina",
+              "fr": "Fournitures de bureau",
+              "it": "Prodotti per ufficio",
+              "nl": "Kantoorbenodigdheden",
+              "pt": "Artigos de escritório"
+            },
+            "slug": {
+              "de": "burobedarf",
+              "en": "office-supplies",
+              "es": "material-de-oficina",
+              "fr": "materiel-de-bureau",
+              "it": "prodotti-per-ufficio",
+              "nl": "kantoorbenodigdheden",
+              "pt": "artigos-de-escritorio"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-08-21T15:24:27.000000Z"
+        },
+        {
+          "id": "524fb580-ff0a-42bf-812f-e29b8fe48e07",
+          "name": "Produtos de papel",
+          "slug": "produtos-de-papel",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/524fb580-ff0a-42bf-812f-e29b8fe48e07.jpg",
+          "translations": {
+            "name": {
+              "de": "Papierprodukte",
+              "en": "Paper products",
+              "es": "Productos de papel",
+              "fr": "Papeterie",
+              "it": "Prodotti di carta",
+              "nl": "Papierproducten",
+              "pt": "Produtos de papel"
+            },
+            "slug": {
+              "de": "papierprodukte",
+              "en": "paper-products",
+              "es": "productos-de-papel",
+              "fr": "produits-en-papier",
+              "it": "prodotti-di-carta",
+              "nl": "papierproducten",
+              "pt": "produtos-de-papel"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-09-04T06:41:10.000000Z"
+        },
+        {
+          "id": "c8912066-af17-4a21-8013-ac9ae0098d7d",
+          "name": "Acessórios para impressoras",
+          "slug": "acessorios-para-impressoras",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/c8912066-af17-4a21-8013-ac9ae0098d7d.jpg",
+          "translations": {
+            "name": {
+              "de": "Drucker Zubehör",
+              "en": "Printer Accessories",
+              "es": " Accesorios de impresora",
+              "fr": "Accessoires pour imprimante",
+              "it": "Accessori stampanti",
+              "nl": "Printer toebehoren",
+              "pt": "Acessórios para impressoras"
+            },
+            "slug": {
+              "de": "drucker-zubehoer",
+              "en": "printer-accessories",
+              "es": "accesorios-de-impresora",
+              "fr": "accessoires-pour-imprimante",
+              "it": "accessori-stampanti",
+              "nl": "printer-toebehoren",
+              "pt": "acessorios-para-impressoras"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-03-01T12:21:59.000000Z"
+        },
+        {
+          "id": "83bb41f9-2e6a-4314-8126-31355f446e6b",
+          "name": "Embalagens e expedição",
+          "slug": "embalagens-e-expedicao",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/83bb41f9-2e6a-4314-8126-31355f446e6b.jpg",
+          "translations": {
+            "name": {
+              "de": "Verpackung & Versand",
+              "en": "Packing & Shipping",
+              "es": "Embalaje para envíos",
+              "fr": "Emballage et expédition",
+              "it": "Imballaggi e spedizioni",
+              "nl": "Verpakking & verzending",
+              "pt": "Embalagens e expedição"
+            },
+            "slug": {
+              "de": "verpackung-und-versand",
+              "en": "packing-shipping",
+              "es": "embalaje-para-envios",
+              "fr": "emballage-et-expedition",
+              "it": "imballaggi-e-spedizioni",
+              "nl": "verpakking-verzending",
+              "pt": "embalagens-e-expedicao"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-07-31T14:45:13.000000Z"
+        },
+        {
+          "id": "7e667311-9c8f-481d-9ac3-7310a9948ede",
+          "name": "Informática",
+          "slug": "informatica",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/7e667311-9c8f-481d-9ac3-7310a9948ede.jpg",
+          "translations": {
+            "name": {
+              "de": "Bürotechnik",
+              "en": "Office Technology",
+              "es": "Informática",
+              "fr": "Bureautique",
+              "it": "Informatica",
+              "nl": "Kantoor technologie",
+              "pt": "Informática"
+            },
+            "slug": {
+              "de": "buerotechnik",
+              "en": "office-technology",
+              "es": "informatica",
+              "fr": "bureautique",
+              "it": "informatica",
+              "nl": "kantoor-technologie",
+              "pt": "informatica"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-11-03T09:07:51.000000Z"
+        },
+        {
+          "id": "d5b536a4-cdd0-4c6c-8db2-6d2e66dca52d",
+          "name": "Mobiliário de escritório",
+          "slug": "mobiliario-de-escritorio",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/d5b536a4-cdd0-4c6c-8db2-6d2e66dca52d.jpg",
+          "translations": {
+            "name": {
+              "de": "Büromöbel",
+              "en": "Office furniture",
+              "es": "Muebles de oficina",
+              "fr": "Mobilier de bureau",
+              "it": "Mobili per ufficio, arredo ufficio",
+              "nl": "Kantoormeubelen",
+              "pt": "Mobiliário de escritório"
+            },
+            "slug": {
+              "de": "buromobel",
+              "en": "office-furniture",
+              "es": "muebles-de-oficina",
+              "fr": "mobilier-de-bureau",
+              "it": "mobili-per-ufficio-arredo-ufficio",
+              "nl": "kantoormeubelen",
+              "pt": "mobiliario-de-escritorio"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-09-04T06:41:16.000000Z"
+        },
+        {
+          "id": "b82041c0-ab07-439d-b97c-06fc61b33cfe",
+          "name": "Gestão de caixa",
+          "slug": "gestao-de-caixa",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/b82041c0-ab07-439d-b97c-06fc61b33cfe.jpg",
+          "translations": {
+            "name": {
+              "de": "Cash-Management",
+              "en": "Cash management",
+              "es": "Gestión de caja",
+              "fr": "Encaissement et Monétique",
+              "it": "Gestione cassa, cash management",
+              "nl": "Cash management",
+              "pt": "Gestão de caixa"
+            },
+            "slug": {
+              "de": "cash-management",
+              "en": "cash-management",
+              "es": "gestion-de-caja",
+              "fr": "encaissement-et-monetique",
+              "it": "gestione-cassa-cash-management",
+              "nl": "cashmanagement",
+              "pt": "gestao-de-caixa"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:16:52.000000Z"
+        },
+        {
+          "id": "67c399be-2051-4914-97a8-d9b2e05e599c",
+          "name": "Segurança e vigilância",
+          "slug": "seguranca-e-vigilancia",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/67c399be-2051-4914-97a8-d9b2e05e599c.jpg",
+          "translations": {
+            "name": {
+              "de": "Sicherheit & Überwachung",
+              "en": "Security & Surveillance",
+              "es": "Seguridad y vigilancia",
+              "fr": "Sécurité et surveillance",
+              "it": "Sicurezza e sorveglianza",
+              "nl": "Beveiliging & Bewaking",
+              "pt": "Segurança e vigilância"
+            },
+            "slug": {
+              "de": "sicherheit-uberwachung",
+              "en": "security-surveillance",
+              "es": "seguridad-y-vigilancia",
+              "fr": "securite-et-surveillance",
+              "it": "sicurezza-e-sorveglianza",
+              "nl": "beveiliging-bewaking",
+              "pt": "seguranca-e-vigilancia"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:23:26.000000Z"
+        },
+        {
+          "id": "621e9594-d9b1-4f95-8d5c-105d62a2a8e9",
+          "name": "Plantas",
+          "slug": "plantas",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/621e9594-d9b1-4f95-8d5c-105d62a2a8e9.jpg",
+          "translations": {
+            "name": {
+              "de": "Pflanzen",
+              "en": "Plants",
+              "es": "Plantas",
+              "fr": "Plantes et pots",
+              "it": "Piante",
+              "nl": "Planten",
+              "pt": "Plantas"
+            },
+            "slug": {
+              "de": "pflanzen",
+              "en": "plants",
+              "es": "plantas",
+              "fr": "plantes",
+              "it": "piante",
+              "nl": "planten",
+              "pt": "plantas"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-09-04T06:41:19.000000Z"
+        }
+      ],
+      "parents": [],
+      "parentId": null,
+      "itemTypeIds": [],
+      "updatedAt": "2023-08-22T11:41:31.000000Z"
+    },
+    {
+      "id": "0cfdb05f-5b55-48c6-a9ca-19e6617f7149",
+      "name": "Limpeza e Higiene",
+      "slug": "limpeza-e-higiene",
+      "status": "ACTIVE",
+      "image": "https://prod-metro-markets.imgix.net/category_image/0cfdb05f-5b55-48c6-a9ca-19e6617f7149.jpg",
+      "translations": {
+        "name": {
+          "de": "Reinigung & Hygiene",
+          "en": "Cleaning & Hygiene",
+          "es": "Limpieza e higiene",
+          "fr": "Hygiène et nettoyage",
+          "it": "Pulizia e igiene",
+          "nl": "Schoonmaken & hygiëne",
+          "pt": "Limpeza e Higiene"
+        },
+        "slug": {
+          "de": "reinigung",
+          "en": "cleaning",
+          "es": "limpieza-1",
+          "fr": "nettoyage-et-hygiene",
+          "it": "pulizia-e-igiene",
+          "nl": "schoonmaken-hygiene",
+          "pt": "limpeza-e-higiene"
+        }
+      },
+      "energyEfficiencyRange": null,
+      "children": [
+        {
+          "id": "077fe30e-9921-4fd3-9d4e-4908359ad637",
+          "name": "Detergentes e sabões",
+          "slug": "produtos-de-limpeza-e-sabonetes",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/077fe30e-9921-4fd3-9d4e-4908359ad637.jpg",
+          "translations": {
+            "name": {
+              "de": "Reinigungsmittel & Seifen",
+              "en": "Detergents & Soaps",
+              "es": "Detergentes y limpiadores",
+              "fr": "Nettoyants, savons et désinfection",
+              "it": "Detersivi e detergenti",
+              "nl": "Wasmiddelen & reinigers",
+              "pt": "Detergentes e sabões"
+            },
+            "slug": {
+              "de": "reinigungsmittel-seifen",
+              "en": "detergents-soaps",
+              "es": "detergentes-jabones",
+              "fr": "detergents-et-savons",
+              "it": "detersivi-e-saponi",
+              "nl": "schoonmaakmiddelen-zepen",
+              "pt": "produtos-de-limpeza-e-sabonetes"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-08-21T15:22:33.000000Z"
+        },
+        {
+          "id": "5653e295-ac2d-4d63-bba0-7b16a339b931",
+          "name": "Equipamento e acessórios de limpeza",
+          "slug": "equipamento-e-acessorios-de-limpeza",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/5653e295-ac2d-4d63-bba0-7b16a339b931.jpg",
+          "translations": {
+            "name": {
+              "de": "Reinigungsgeräte & -zubehör",
+              "en": "Cleaning Equipment & Accessories",
+              "es": "Equipos y accesorios de limpieza",
+              "fr": "Équipement d'entretien",
+              "it": "Attrezzi e accessori per la pulizia",
+              "nl": "Schoonmaakproducten & -apparatuur",
+              "pt": "Equipamento e acessórios de limpeza"
+            },
+            "slug": {
+              "de": "reinigungsgeraete-zubehoer",
+              "en": "cleaning-equipment-accessories",
+              "es": "equipos-accesorios-de-limpieza",
+              "fr": "equipement-et-accessoires-de-nettoyage",
+              "it": "attrezzi-e-accessori-per-la-pulizia",
+              "nl": "schoonmaakmaterialen-toebehoren",
+              "pt": "equipamento-e-acessorios-de-limpeza"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-12-15T12:57:12.000000Z"
+        },
+        {
+          "id": "f6004c4f-992a-4c55-adf1-9e284672df99",
+          "name": "Produtos de higiene descartáveis",
+          "slug": "produtos-de-higiene-descartaveis",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/f6004c4f-992a-4c55-adf1-9e284672df99.jpg",
+          "translations": {
+            "name": {
+              "de": "Einweg Hygieneartikel",
+              "en": "Disposable Hygiene Items",
+              "es": "Artículos de higiene desechables",
+              "fr": "Hygiène",
+              "it": "Articoli per l’igiene monouso",
+              "nl": "Wegwerphygiëne",
+              "pt": "Produtos de higiene descartáveis"
+            },
+            "slug": {
+              "de": "pflege-gesundheit",
+              "en": "personal-care-health",
+              "es": "cuidado-y-salud",
+              "fr": "articles-dhygiene-jetables",
+              "it": "articoli-per-ligiene-monouso",
+              "nl": "verzorging-gezondheid",
+              "pt": "produtos-de-higiene-descartaveis"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-03-28T12:07:13.000000Z"
+        },
+        {
+          "id": "4e8e81c1-2d2e-4d24-b20f-07ffeb627fd8",
+          "name": "Artigos de lavandaria",
+          "slug": "artigos-de-lavandaria",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/4e8e81c1-2d2e-4d24-b20f-07ffeb627fd8.jpg",
+          "translations": {
+            "name": {
+              "de": "Wäschereibedarf",
+              "en": "Laundry Supplies",
+              "es": "Suministros de lavandería",
+              "fr": "Buanderie",
+              "it": "Lavaggio e stiratura",
+              "nl": "Wasgoed",
+              "pt": "Artigos de lavandaria"
+            },
+            "slug": {
+              "de": "waeschereibedarf",
+              "en": "laundry-supplies",
+              "es": "suministros-de-lavanderia",
+              "fr": "materiel-de-blanchisserie",
+              "it": "materiale-da-lavanderia",
+              "nl": "wasgoed",
+              "pt": "artigos-de-lavandaria"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-07-12T13:41:24.000000Z"
+        },
+        {
+          "id": "1d13e6b9-e5e7-466c-ac5a-3cd2e8841735",
+          "name": "Acessórios para cuidado pessoal",
+          "slug": "acessorios-para-cuidado-pessoal",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/1d13e6b9-e5e7-466c-ac5a-3cd2e8841735.jpg",
+          "translations": {
+            "name": {
+              "de": "Körperpflege Zubehör",
+              "en": "Personal care accessories",
+              "es": "Accesorios para cuidado personal",
+              "fr": "Soin de la personne",
+              "it": "Accessori cura del corpo",
+              "nl": "Lichaamsverzorging & toebehoren",
+              "pt": "Acessórios para cuidado pessoal"
+            },
+            "slug": {
+              "de": "korperpflege-zubehor",
+              "en": "personal-care-accessories",
+              "es": "accesorios-para-cuidado-personal",
+              "fr": "accessoires-dhygiene-corporelle",
+              "it": "accessori-cura-del-corpo",
+              "nl": "toebehoren-voor-lichaamsverzorging",
+              "pt": "acessorios-para-cuidado-pessoal"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-08-21T15:22:38.000000Z"
+        },
+        {
+          "id": "60591f2b-4b82-4b07-9d15-43154f6302f1",
+          "name": "Saúde e Cuidados de higiene",
+          "slug": "saude-e-cuidados-de-higiene",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/60591f2b-4b82-4b07-9d15-43154f6302f1.jpg",
+          "translations": {
+            "name": {
+              "de": "Gesundheit & Pflege",
+              "en": "Health & Care",
+              "es": "Salud",
+              "fr": "Santé et soins",
+              "it": "Salute e benessere",
+              "nl": "Gezondheid & verzorging",
+              "pt": "Saúde e Cuidados de higiene"
+            },
+            "slug": {
+              "de": "gesundheit",
+              "en": "health-care",
+              "es": "salud",
+              "fr": "sante-et-soins",
+              "it": "salute-e-benessere",
+              "nl": "gezondheid-verzorging",
+              "pt": "saude-e-cuidados-de-higiene"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:23:13.000000Z"
+        },
+        {
+          "id": "710e08af-06af-4265-b484-6d06ce4abfe0",
+          "name": "Inseticidas",
+          "slug": "inseticidas",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/710e08af-06af-4265-b484-6d06ce4abfe0.jpg",
+          "translations": {
+            "name": {
+              "de": "Insektenvernichter",
+              "en": "Insect Killers",
+              "es": "Insecticidas",
+              "fr": "Insecticides et anti-nuisibles",
+              "it": "Insetticidi",
+              "nl": "Insectenverdelgers",
+              "pt": "Inseticidas"
+            },
+            "slug": {
+              "de": "insektizide",
+              "en": "insecticides",
+              "es": "insecticidas",
+              "fr": "insecticides-et-anti-nuisibles",
+              "it": "insetticidi",
+              "nl": "insectenverdelgers",
+              "pt": "inseticidas"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:18:55.000000Z"
+        }
+      ],
+      "parents": [],
+      "parentId": null,
+      "itemTypeIds": [],
+      "updatedAt": "2023-08-22T11:42:07.000000Z"
+    },
+    {
+      "id": "a343dbee-71bb-40a2-a7bb-d47f6324161d",
+      "name": "Logística e Manutenção",
+      "slug": "logistica-e-manutencao",
+      "status": "ACTIVE",
+      "image": "https://prod-metro-markets.imgix.net/category_image/a343dbee-71bb-40a2-a7bb-d47f6324161d.jpg",
+      "translations": {
+        "name": {
+          "de": "Logistik & Instandhaltung",
+          "en": "Logistics & Maintenance",
+          "es": "Logística y mantenimiento",
+          "fr": "Stockage et manutention",
+          "it": "Logistica e manutenzione",
+          "nl": "Logistiek & onderhoud",
+          "pt": "Logística e Manutenção"
+        },
+        "slug": {
+          "de": "diy-instandhaltung-werkzeug",
+          "en": "diy-maintenance-tools",
+          "es": "bricolaje-mantenimiento-y-herramientas",
+          "fr": "bricolage-entretien-et-outils",
+          "it": "logistica-e-manutenzione",
+          "nl": "logistiek-onderhoud",
+          "pt": "logistica-e-manutencao"
+        }
+      },
+      "energyEfficiencyRange": null,
+      "children": [
+        {
+          "id": "adbe2e90-0c96-42bf-a89b-512b3852da69",
+          "name": "Armazenamento e Transporte",
+          "slug": "armazenamento-e-transporte",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/adbe2e90-0c96-42bf-a89b-512b3852da69.jpg",
+          "translations": {
+            "name": {
+              "de": "Lagerung & Transport",
+              "en": "Store & Transport",
+              "es": "Almacenamiento y transporte",
+              "fr": "Stockage et transport",
+              "it": "Stoccaggio e trasporto",
+              "nl": "Opslag & transport",
+              "pt": "Armazenamento e Transporte"
+            },
+            "slug": {
+              "de": "lagerung-transport",
+              "en": "store-transport",
+              "es": "almacenamiento-transporte",
+              "fr": "stockage-et-transport",
+              "it": "stoccaggio-e-trasporto",
+              "nl": "opslag-transport",
+              "pt": "armazenamento-e-transporte"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-09-30T14:41:55.000000Z"
+        },
+        {
+          "id": "9dbf14ed-ecee-4e85-acfa-2d782d3d7a5a",
+          "name": "Negócios e Indústria",
+          "slug": "negocios-e-industria",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/9dbf14ed-ecee-4e85-acfa-2d782d3d7a5a.jpg",
+          "translations": {
+            "name": {
+              "de": "Betrieb & Industrie",
+              "en": "Operation & Industry",
+              "es": "Operación & industria",
+              "fr": "Entreprise & industrie",
+              "it": "Aziende e industria",
+              "nl": "Bedrijf & industrie",
+              "pt": "Negócios e Indústria"
+            },
+            "slug": {
+              "de": "betrieb-industrie",
+              "en": "operation-industry",
+              "es": "operacion-industria",
+              "fr": "entreprise-industrie",
+              "it": "aziende-e-industria",
+              "nl": "bedrijf-industrie",
+              "pt": "negocios-e-industria"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-03-08T13:17:33.000000Z"
+        },
+        {
+          "id": "9ccc96fb-7c25-4355-8457-3c730c7bb19b",
+          "name": "Artigos sanitários",
+          "slug": "artigos-sanitarios",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/9ccc96fb-7c25-4355-8457-3c730c7bb19b.jpg",
+          "translations": {
+            "name": {
+              "de": "Sanitärbedarf",
+              "en": "Sanitary Supplies",
+              "es": "Suministros sanitarios",
+              "fr": "Accessoires pour sanitaires",
+              "it": "Forniture sanitarie",
+              "nl": "Sanitair",
+              "pt": "Artigos sanitários"
+            },
+            "slug": {
+              "de": "sanitar",
+              "en": "sanitary",
+              "es": "fontaneria",
+              "fr": "accessoires-pour-sanitaires",
+              "it": "forniture-sanitarie",
+              "nl": "sanitair",
+              "pt": "artigos-sanitarios"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-05-22T13:11:06.000000Z"
+        },
+        {
+          "id": "5ead3a26-6404-488d-aaf4-0e3cf3459700",
+          "name": "Ferramentas para ofícios",
+          "slug": "ferramentas-para-oficios",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/5ead3a26-6404-488d-aaf4-0e3cf3459700.jpg",
+          "translations": {
+            "name": {
+              "de": "Handwerkerbedarf",
+              "en": "Craft supplies",
+              "es": "Suministros de artesanía",
+              "fr": "Maintenance et sécurité",
+              "it": "Forniture artigianato",
+              "nl": "Ambachtelijke benodigdheden",
+              "pt": "Ferramentas para ofícios"
+            },
+            "slug": {
+              "de": "handwerkerbedarf",
+              "en": "craft-supplies",
+              "es": "suministros-de-artesania",
+              "fr": "materiel-pour-artisans",
+              "it": "forniture-artigianato",
+              "nl": "ambachtelijke-benodigdheden",
+              "pt": "ferramentas-para-oficios"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-08-21T15:23:35.000000Z"
+        },
+        {
+          "id": "82714798-c8cc-40e3-a5d8-6f9814c23fb0",
+          "name": "Eletrotécnica",
+          "slug": "eletrotecnica",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/82714798-c8cc-40e3-a5d8-6f9814c23fb0.jpg",
+          "translations": {
+            "name": {
+              "de": "Elektrotechnik",
+              "en": "Electrical Engineering",
+              "es": "Ingeniería eléctrica",
+              "fr": "Électricité",
+              "it": "Elettrotecnica",
+              "nl": "Elektrotechniek",
+              "pt": "Eletrotécnica"
+            },
+            "slug": {
+              "de": "elektrotechnik",
+              "en": "electrical-engineering",
+              "es": "ingenieria-electrica",
+              "fr": "genie-electrique",
+              "it": "elettrotecnica",
+              "nl": "elektrotechniek",
+              "pt": "eletrotecnica"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2023-09-04T06:41:23.000000Z"
+        },
+        {
+          "id": "8615ce6b-5e67-4d98-a672-0153cd0dc7a7",
+          "name": "Energia fotovoltaica",
+          "slug": "energia-fotovoltaica",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/8615ce6b-5e67-4d98-a672-0153cd0dc7a7.jpg",
+          "translations": {
+            "name": {
+              "de": "Photovoltaik",
+              "en": "Photovoltaics",
+              "es": "Tecnología fotovoltaica",
+              "fr": "Photovoltaïque",
+              "it": "Fotovoltaico",
+              "nl": "Fotovoltaïsch & Toebehoren",
+              "pt": "Energia fotovoltaica"
+            },
+            "slug": {
+              "de": "photovoltaik",
+              "en": "photovoltaics",
+              "es": "photovoltaics",
+              "fr": "photovoltaique",
+              "it": "fotovoltaico",
+              "nl": "fotovoltaisch-toebehoren",
+              "pt": "energia-fotovoltaica"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-06-20T09:27:57.000000Z"
+        },
+        {
+          "id": "434ff4e9-d150-4bc9-a19a-f231bac810d5",
+          "name": "Artigos de jardim",
+          "slug": "artigos-de-jardim",
+          "status": "ACTIVE",
+          "image": "https://prod-metro-markets.imgix.net/category_image/434ff4e9-d150-4bc9-a19a-f231bac810d5.jpg",
+          "translations": {
+            "name": {
+              "de": "Gartenbedarf",
+              "en": "Gardening",
+              "es": "Jardín",
+              "fr": "Espaces extérieurs",
+              "it": "Forniture per il giardino",
+              "nl": "Tuin",
+              "pt": "Artigos de jardim"
+            },
+            "slug": {
+              "de": "garten",
+              "en": "gardening",
+              "es": "jardin",
+              "fr": "jardinage",
+              "it": "dotazione-da-giardino",
+              "nl": "tuin",
+              "pt": "artigos-de-jardim"
+            }
+          },
+          "energyEfficiencyRange": null,
+          "children": [],
+          "parents": [],
+          "parentId": null,
+          "itemTypeIds": [],
+          "updatedAt": "2024-09-16T08:24:51.000000Z"
+        }
+      ],
+      "parents": [],
+      "parentId": null,
+      "itemTypeIds": [],
+      "updatedAt": "2024-09-30T15:23:18.000000Z"
+    }
+  ],
+  "totalCount": 5
+}
