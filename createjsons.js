@@ -1,7 +1,6 @@
 const sql = require('mssql');
 const axios = require('axios');
 const fs = require('fs');
-const path = require('path');
 
 // Function to create a SQL Server connection
 function createConnection() {
@@ -17,49 +16,55 @@ function createConnection() {
     });
 }
 
-// Function to fetch slugs from the makrocategories table
-async function fetchSlugs(conn) {
-    const query = 'SELECT slug, id FROM makrocategories';
-    const result = await conn.request().query(query);
-    return result.recordset.map(row => ({ slug: row.slug, name: row.id }));
+// Function to fetch categories from the `makrocategories` table
+async function getCategories(conn) {
+    const result = await conn.request().query('SELECT id, slug FROM makrocategories');
+    return result.recordset;
 }
 
-// Function to send HTTP requests for each slug and save the response as a file
-async function sendHttpRequests(slugs) {
-    const urlTemplate = 'https://app-search-2.prod.de.metro-marketplace.cloud/api/v3/search?filter[categories][]=%SLUG%&limit=100';
+// Function to fetch data from the API and save to a file
+async function fetchDataAndSave(offset) {
+    const url = `https://app-search-2.prod.de.metro-marketplace.cloud/api/v3/search?offset=${offset}&limit=100`;
+    try {
+        const response = await axios.get(url);
 
-    for (const { slug, name } of slugs) {
-        const url = urlTemplate.replace('%SLUG%', slug);
-        try {
-            const response = await axios.get(url, {
-                headers: {
-                    'Country-Code': 'pt'  // Adding the custom header to the request
-                }
-            });
-            // Create a file path for the response JSON, using the category name
-            const filePath = path.join(__dirname+'/MakroData', `${slug.replace(/\s+/g, '_').toLowerCase()}.json`);
+        // Save the response data to a new JSON file based on the category slug and offset
+        const filename = `MakroData/response_${offset}.json`;
+        fs.writeFileSync(filename, JSON.stringify(response.data, null, 2));
 
-            // Write the JSON response to the file
-            fs.writeFileSync(filePath, JSON.stringify(response.data, null, 2), 'utf8');
-            console.log(`Request for category '${slug}' successful. Data saved to ${filePath}`);
-        } catch (error) {
-            console.error(`Error for category '${slug}':`, error.message);
-        }
+        console.log(`Saved response for offset ${offset} to ${filename}`);
+    } catch (error) {
+        console.error(`Error fetching data offset ${offset}:`, error);
     }
 }
 
-// Main execution flow
+// Main function to loop through each category and make requests with the offset increment
 async function main() {
     try {
         const conn = await createConnection();
+        const categories = await getCategories(conn);
 
-        // Fetch the slugs and names from the database
-        const slugs = await fetchSlugs(conn);
+        // Loop over each category
+        for (const category of categories) {
+            let offset = 0;
+            let iteration = 1;
 
-        // Send HTTP requests for each slug and save the responses
-        await sendHttpRequests(slugs);
+            // Loop to increment offset by 40 for each iteration
+            while (true) {
+                console.log(`Fetching data for category offset: ${offset}`);
+                await fetchDataAndSave(offset);
 
-        // Close the connection
+                // Increase offset by 40
+                offset += 40;
+
+                // Add logic to break the loop when no more data is returned
+                // (example: check the response or a maximum limit on iterations)
+                iteration++;
+                
+            }
+        }
+
+        // Close the connection after operations
         await conn.close();
         console.log('Database connection closed.');
     } catch (err) {

@@ -45,8 +45,8 @@ async function processJsonFiles(directoryPath,conn) {
             const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
             // Process each product in the JSON file
-            if (data.recommendedProducts.items && data.recommendedProducts.items.length > 0) {
-                for (const item of data.recommendedProducts.items) {
+            if (data.items && data.items.length > 0) {
+                for (const item of data.items) {
                     const barcode = item.gtin || '';
                     const name = item.name || '';
                     const unit_price = item.bestOffer?.unitPrice?.price?.grossPrice || 0;
